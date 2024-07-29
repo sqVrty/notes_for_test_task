@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Grocery Shopping",
+      "desc": "Buy fruits, vegetables, milk, and bread.",
+      "date": "02.07.2024"
+    },
+    {
+      "id": "3",
+      "title": "Doctor Appointment",
+      "desc": "Annual check-up at Dr. Smith's office. Need to discuss the recent blood test results and get a prescription for the new medication. Also, inquire about the recommended diet and exercise regimen to improve overall health.",
+      "date": "03.07.2024"
+    },
+    {
+      "id": "4",
+      "title": "Birthday Party",
+      "desc": "Plan a surprise party for Sarah's birthday. Make a guest list, send out invitations, and decide on the menu. Don't forget to order the cake and buy decorations. Plan some fun activities and games to keep the guests entertained.",
+      "date": "04.07.2024"
+    },
+    {
+      "id": "5",
+      "title": "Workout Routine",
+      "desc": "Update my gym workout routine for better results. Focus on increasing strength and endurance. Include a mix of cardio, weight training, and flexibility exercises. Track progress and make adjustments as needed.",
+      "date": "05.07.2024"
+    },
+    {
+      "id": "6",
+      "title": "Read New Book",
+      "desc": "Start reading 'The Great Gatsby' by F. Scott Fitzgerald.",
+      "date": "06.07.2024"
+    },
+    {
+      "id": "7",
+      "title": "Work on Blog",
+      "desc": "Write a new post about healthy eating habits. Research the latest trends in nutrition and gather reliable sources. Create an outline and write a draft. Edit the post for clarity and conciseness before publishing.",
+      "date": "07.07.2024"
+    },
+    {
+      "id": "8",
+      "title": "Fix Bicycle",
+      "desc": "Repair the flat tire on my bicycle. Check for any other damages and perform routine maintenance. Lubricate the chain and adjust the brakes for a smoother ride.",
+      "date": "08.07.2024"
+    },
+    {
+      "id": "9",
+      "title": "Weekend Getaway",
+      "desc": "Plan a weekend trip to the mountains. Research potential destinations and accommodations. Make a list of activities to do and places to visit. Pack appropriate clothing and gear for hiking and camping.",
+      "date": "09.07.2024"
+    },
+    {
+      "id": "10",
+      "title": "Monthly Budget",
+      "desc": "Review and adjust my monthly budget for savings. Analyze spending habits and identify areas to cut costs. Set financial goals and create a plan to achieve them. Track expenses and savings regularly to stay on track.",
+      "date": "10.07.2024"
+    },
+    {
+      "id": "11",
+      "title": "New Note1212",
+      "desc": "dsjdjsdjs\nya delau test zadani",
+      "date": "29.07.2024"
+    },
+    {
+      "id": "12",
+      "title": "New Note121",
+      "desc": "why I can't change only title",
+      "date": "29.07.2024"
+    }
+  ]
+}

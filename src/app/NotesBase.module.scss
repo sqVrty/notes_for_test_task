@@ -1,0 +1,103 @@
+.container {
+  display: flex;
+  width: 100%;
+
+  .sidebarContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    @media (min-width: 1200px) {
+      border-right: 1px solid gray;
+      width: 35%;
+    }
+
+    .upperContainer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 10px;
+      margin-top: 15px;
+
+      .newNoteIcon {
+        width: 35px;
+        height: 35px;
+        cursor: pointer;
+        transition: 0.2s ease-in-out all;
+
+        &:hover {
+          scale: 1.1;
+          opacity: 0.7;
+        }
+      }
+
+      .sortContainer {
+      }
+    }
+
+    .listGroup {
+      margin-top: 20px;
+      overflow-y: auto;
+
+      &::-webkit-scrollbar {
+        -webkit-appearance: none;
+        width: 5px;
+      }
+
+      &::-webkit-scrollbar-thumb {
+        border-radius: 4px;
+        background-color: gray;
+      }
+    }
+  }
+
+  .noteDetailContainer {
+    display: flex;
+    width: 65%;
+
+    @media (max-width: 1200px) {
+      display: none;
+    }
+
+    .noteDetail {
+      margin: 20px 10px;
+      width: 100%;
+
+      .titleContainer {
+        height: 20%;
+        .title {
+          font-weight: 500;
+        }
+      }
+
+      .descContainer {
+        margin-top: 20px;
+        height: 70vh;
+
+        .desc {
+          height: 100%;
+        }
+      }
+    }
+  }
+}
+
+.mobileNoteDetailContainer {
+  .noteDetail {
+    .titleContainer {
+      height: 20%;
+      .title {
+        font-weight: 500;
+      }
+    }
+
+    .descContainer {
+      margin-top: 20px;
+      height: 60vh;
+
+      .desc {
+        height: 100%;
+      }
+    }
+  }
+}
